@@ -1,0 +1,5 @@
+requests>=2.31.0
+dnspython>=2.4.0
+rich>=13.0.0
+PySocks>=1.7.1
+python-whois>=0.9.1
