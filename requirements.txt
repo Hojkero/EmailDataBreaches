@@ -1,6 +1,0 @@
-# HojkerMailScraper v8.0 «BLACKOUT X» — dependencies
-requests
-dnspython
-rich
-PySocks
-python-whois
