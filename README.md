@@ -15,6 +15,7 @@ git clone https://github.com/Hojkero/EmailDataBreaches.git
 
 cd EmailDataBreaches
 
+pip install -r requirements.txt
 
 python3 hojkermailscraper.py
 
