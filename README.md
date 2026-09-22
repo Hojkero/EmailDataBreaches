@@ -23,5 +23,4 @@ Or
 
 
 python hojkermailscraper.py
-https://github.com/user-attachments/assets/645d23ca-ca2b-4a46-bfe8-9eab73c1d402
 
