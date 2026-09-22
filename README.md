@@ -21,6 +21,10 @@ python3 hojkermailscraper.py
 
 Or
 
-
 python hojkermailscraper.py
 
+## Demo
+
+Watch the tool in action:
+
+https://github.com/user-attachments/assets/645d23ca-ca2b-4a46-bfe8-9eab73c1d402
